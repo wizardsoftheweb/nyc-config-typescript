@@ -1,0 +1,21 @@
+{
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "src/**/*interfaces.ts",
+    "dist"
+  ],
+  "extension": [
+    ".ts"
+  ],
+  "require": [
+    "ts-node/register"
+  ],
+  "reporter": [
+    "json",
+    "html",
+    "text-summary"
+  ],
+  "all": true
+}

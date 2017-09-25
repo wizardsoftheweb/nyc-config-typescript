@@ -1,0 +1,20 @@
+{
+  "name": "@wizardsoftheweb/nyc-config-typescript",
+  "version": "1.0.0",
+  "description": "Extendable nyc typescript config",
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "CJ Harries <cj@wizardsoftheweb.pro> (https://wizardsoftheweb.pro/)",
+  "license": "ISC",
+  "peerDependencies": {
+    "cross-env": "*",
+    "nyc": "*",
+    "ts-node": "*",
+    "typescript": "*"
+  }
+}
