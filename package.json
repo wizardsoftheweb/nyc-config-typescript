@@ -11,10 +11,28 @@
   },
   "author": "CJ Harries <cj@wizardsoftheweb.pro> (https://wizardsoftheweb.pro/)",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wizardsoftheweb/nyc-config-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wizardsoftheweb/nyc-config-typescript/issues"
+  },
+  "homepage": "https://github.com/wizardsoftheweb/nyc-config-typescript#readme",
   "peerDependencies": {
-    "cross-env": "*",
     "nyc": "*",
     "ts-node": "*",
     "typescript": "*"
+  },
+  "optionalDependencies": {
+    "cross-env": "*"
+  },
+  "keywords": [
+    "nyc",
+    "typescript"
+  ],
+  "engines": {
+    "npm": ">= 5",
+    "node": ">= 6.9"
   }
 }
