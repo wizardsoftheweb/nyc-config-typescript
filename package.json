@@ -1,6 +1,6 @@
 {
   "name": "@wizardsoftheweb/nyc-config-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extendable nyc typescript config",
   "files": [
     "index.json"
