@@ -1,6 +1,6 @@
 {
   "include": [
-    "src/**/*.ts"
+    "src/lib/**/*.ts"
   ],
   "exclude": [
     "src/**/*interfaces.ts",
