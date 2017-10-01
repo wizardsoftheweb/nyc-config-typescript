@@ -4,7 +4,8 @@
   ],
   "exclude": [
     "src/**/*interfaces.ts",
-    "dist"
+    "dist",
+    "examples"
   ],
   "extension": [
     ".ts"
